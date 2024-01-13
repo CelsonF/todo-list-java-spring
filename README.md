@@ -3,7 +3,7 @@
 ## This project was made to learn patterns of the Spring Framework and JAVA 17
 
 ## In this project was used:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,bcrypt&perline=1)](https://skillicons.dev)
+<img src="https://cdn.svgporn.com/logos/java.svg" width="32" height="32" alt="JAVA">
 
 Java 
 Spring-boot 
